@@ -1,5 +1,4 @@
-// Description: This file is used to handle comments related requests. 
-// 1. Create a web server
+//Create a web server
 // 2. Create a route to handle comments
 // 3. Create a route to handle comments by id
 // 4. Create a route to handle comments by user id
